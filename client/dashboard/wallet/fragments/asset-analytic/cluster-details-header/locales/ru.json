@@ -1,0 +1,16 @@
+{
+  "cluster-details": {
+    "wallets-count": "Кошельки, шт: {number}",
+    "last-operation": "Последняя операция: {date}",
+    "create-group": "Создать группу",
+    "download": "Скачать",
+    "copy": "Скопировать",
+    "stats": {
+      "realized-pnl": "PnL реализованный, $",
+      "unrealized-pnl": "PnL нереализованный, $",
+      "total-pnl": "Total PnL, $",
+      "average-price-dex": "Средняя цена DEX, $",
+      "average-price-cex": "Средняя цена CEX, $"
+    }
+  }
+}

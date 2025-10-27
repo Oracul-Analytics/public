@@ -1,0 +1,16 @@
+{
+  "cluster-details": {
+    "wallets-count": "Wallets, pcs: {number}",
+    "last-operation": "Last operation: {date}",
+    "create-group": "Create group",
+    "download": "Download",
+    "copy": "Copy",
+    "stats": {
+      "realized-pnl": "Realized PnL, $",
+      "unrealized-pnl": "Unrealized PnL, $",
+      "total-pnl": "Total PnL, $",
+      "average-price-dex": "Average DEX price, $",
+      "average-price-cex": "Average CEX price, $"
+    }
+  }
+}

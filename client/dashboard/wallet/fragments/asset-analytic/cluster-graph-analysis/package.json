@@ -1,0 +1,58 @@
+{
+  "name": "@wallet-pnl/cluster-graph-analysis-fragment",
+  "version": "0.0.1",
+  "private": true,
+  "type": "module",
+  "exports": {
+    ".": "./src/index.ts",
+    "./locales": "./locales/index.ts"
+  },
+  "main": "src/index.ts",
+  "dependencies": {
+    "@shared/buttons": "workspace:*",
+    "@shared/data": "workspace:*",
+    "@shared/hooks": "workspace:*",
+    "@shared/utils": "workspace:*",
+    "@sigma/node-border": "3.0.0",
+    "@tanstack/pacer": "0.14.0",
+    "@ui/button": "workspace:*",
+    "@ui/checkbox": "workspace:*",
+    "@ui/condition": "workspace:*",
+    "@ui/icons": "workspace:*",
+    "@ui/images": "workspace:*",
+    "@ui/input": "workspace:*",
+    "@ui/layout": "workspace:*",
+    "@ui/link": "workspace:*",
+    "@ui/text": "workspace:*",
+    "@ui/theme": "workspace:*",
+    "@wallet-pnl/routes": "workspace:*",
+    "effector": "23.4.2",
+    "effector-react": "23.3.0",
+    "graphology": "0.26.0",
+    "graphology-layout": "0.6.1",
+    "graphology-layout-forceatlas2": "0.10.1",
+    "graphology-types": "0.24.8",
+    "nuqs": "2.4.3",
+    "sigma": "3.0.2"
+  },
+  "devDependencies": {
+    "@tanstack/react-query": "5.83.0",
+    "@types/node": "22.15.33",
+    "@types/react": "19.1.8",
+    "@vanilla-extract/css": "1.17.4",
+    "@vanilla-extract/dynamic": "2.1.5",
+    "next": "15.3.5",
+    "next-intl": "4.3.4",
+    "react": "19.1.0",
+    "react-dom": "19.1.0"
+  },
+  "peerDependencies": {
+    "@tanstack/react-query": "*",
+    "@vanilla-extract/css": "*",
+    "@vanilla-extract/dynamic": "*",
+    "next": "*",
+    "next-intl": "*",
+    "react": "*",
+    "react-dom": "*"
+  }
+}

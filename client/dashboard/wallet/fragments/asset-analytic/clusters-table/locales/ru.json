@@ -1,0 +1,21 @@
+{
+  "clusters-table": {
+    "title": "Кластеры",
+    "subtitle": "({number})",
+    "nothing-found": "Ничего не найдено",
+    "download": "Скачать таблицу",
+    "copy": "Скопировать страницу",
+    "columns": {
+      "id": "ID",
+      "group": "Группа",
+      "wallets": "Кошельки",
+      "quantity": "Количество сделок",
+      "avg-buy-price": "Ср. цена покупки, $",
+      "avg-sell-price": "Ср. цена продажи, $",
+      "realized-pnl": "Реализованный PnL, $",
+      "unrealized-pnl": "Нереализованный PnL, $",
+      "total-pnl": "Total PnL, $",
+      "last-operation": "Последняя операция"
+    }
+  }
+}

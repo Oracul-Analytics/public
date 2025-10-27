@@ -1,0 +1,33 @@
+{
+  "cluster-graph-analysis": {
+    "title": "Graph analysis",
+    "force-atlas-2": "ForceAtlas2",
+    "loading-data": "Loading data",
+    "loading-error": "Loading error",
+    "search-wallet": "Search wallet",
+    "edge-size-1px": "Edges 1px",
+    "lin-log-mode": "LinLog mode",
+    "legend": {
+      "wallets-count": "Wallets: {number}",
+      "sources": "Sources",
+      "sinks": "Sinks",
+      "active": "Active",
+      "empty": "Empty"
+    },
+    "node": {
+      "address": "Address:",
+      "balance": "Balance:",
+      "usd": "USD",
+      "tokens": "Tokens:",
+      "eth": "ETH",
+      "average-buy-price": "Avg buy price:",
+      "average-sell-price": "Avg sell price:"
+    },
+    "edge": {
+      "transactions": "Transactions:",
+      "tokens": "Tokens:",
+      "amount": "Amount:",
+      "usd": "USD"
+    }
+  }
+}

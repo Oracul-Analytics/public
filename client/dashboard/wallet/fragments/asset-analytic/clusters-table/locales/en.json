@@ -1,0 +1,21 @@
+{
+  "clusters-table": {
+    "title": "Clusters",
+    "subtitle": "({number})",
+    "nothing-found": "Nothing found",
+    "download": "Download table",
+    "copy": "Copy page",
+    "columns": {
+      "id": "ID",
+      "group": "Group",
+      "wallets": "Wallets",
+      "quantity": "Number of transactions",
+      "avg-buy-price": "Avg. buy price, $",
+      "avg-sell-price": "Avg. sell price, $",
+      "realized-pnl": "Realized PnL, $",
+      "unrealized-pnl": "Unrealized PnL, $",
+      "total-pnl": "Total PnL, $",
+      "last-operation": "Last operation"
+    }
+  }
+}
