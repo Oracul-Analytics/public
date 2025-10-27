@@ -1,0 +1,33 @@
+{
+  "cluster-graph-analysis": {
+    "title": "Графический анализ",
+    "force-atlas-2": "ForceAtlas2",
+    "loading-data": "Загрузка данных",
+    "loading-error": "Ошибка загрузки",
+    "search-wallet": "Поиск кошелька",
+    "edge-size-1px": "Ребра в 1px",
+    "lin-log-mode": "LinLog режим",
+    "legend": {
+      "wallets-count": "Кошельков: {number}",
+      "sources": "Источники",
+      "sinks": "Стоки",
+      "active": "Активные",
+      "empty": "Пустые"
+    },
+    "node": {
+      "address": "Адрес:",
+      "balance": "Баланс:",
+      "usd": "USD",
+      "tokens": "Токены:",
+      "eth": "ETH",
+      "average-buy-price": "Сред. цена покупки:",
+      "average-sell-price": "Сред. цена продажи:"
+    },
+    "edge": {
+      "transactions": "Транзакции:",
+      "tokens": "Токены:",
+      "amount": "Сумма:",
+      "usd": "USD"
+    }
+  }
+}

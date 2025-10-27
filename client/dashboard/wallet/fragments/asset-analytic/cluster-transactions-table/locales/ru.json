@@ -1,0 +1,19 @@
+{
+  "cluster-transactions-table": {
+    "title": "Транзакции кластера",
+    "subtitle": "({number})",
+    "select-edge": "Выберите ребро",
+    "operation-type": "Тип операции",
+    "reset": "Сбросить",
+    "nothing-found": "Ничего не найдено",
+    "download": "Скачать таблицу",
+    "copy": "Скопировать страницу",
+    "columns": {
+      "txid": "TXID",
+      "operation-type": "Тип операции",
+      "token-count": "Кол-во токенов",
+      "usd-amount": "Кол-во USD",
+      "last-operation": "Последняя операция"
+    }
+  }
+}

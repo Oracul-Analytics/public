@@ -1,0 +1,19 @@
+{
+  "cluster-transactions-table": {
+    "title": "Cluster transactions",
+    "subtitle": "({number})",
+    "select-edge": "Select edge",
+    "operation-type": "Operation type",
+    "reset": "Reset",
+    "nothing-found": "Nothing found",
+    "download": "Download table",
+    "copy": "Copy page",
+    "columns": {
+      "txid": "TXID",
+      "operation-type": "Operation type",
+      "token-count": "Token amount",
+      "usd-amount": "USD amount",
+      "last-operation": "Last operation"
+    }
+  }
+}
